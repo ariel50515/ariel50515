@@ -3,9 +3,7 @@
 - 🎓 Curently graduated from iSpan
 - 📩 How to reach me: ariel50515@gmail.com
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc&show_owner=true)](https://github.com/YituHealthcare/Arc)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ariel50515=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ariel50515/ariel50515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
