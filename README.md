@@ -4,7 +4,6 @@
 - ⭐️ My Projects https://www.cakeresume.com/me/ariel50515/portfolios
 - 📩 How to reach me ariel50515@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiariel50515=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **ariel50515/ariel50515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
