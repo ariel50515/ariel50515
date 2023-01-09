@@ -1,6 +1,6 @@
 ### Hi I'm Ariel 💗
 - 🌱 I’m a Front-End Developer
-- 🎓 Curently graduated from iSpan
+- 🎓 Graduated from iSpan Front-End Engineer Certified
 - ⭐️ My Projects https://www.cakeresume.com/me/ariel50515/portfolios
 - 📩 How to reach me ariel50515@gmail.com
 
