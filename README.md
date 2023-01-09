@@ -2,7 +2,7 @@
 - 🌱 I’m a Front-End Developer
 - 🎓 Curently graduated from iSpan
 - ⭐️ My Projects https://www.cakeresume.com/me/ariel50515/portfolios
-- 📩 How to reach me: ariel50515@gmail.com
+- 📩 How to reach me ariel50515@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiariel50515=anuraghazra&show_icons=true&theme=radical)
 
