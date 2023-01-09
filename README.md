@@ -1,4 +1,4 @@
-### Hi I'm Ariel💗
+### Hi I'm Ariel 💗
 - 🌱 I’m a Front-End Developer
 - 🎓 Curently graduated from iSpan
 - 📩 How to reach me: ariel50515@gmail.com
