@@ -1,7 +1,6 @@
 ### Hi I'm Ariel 💗
 - 🌱 I’m a Front-End Developer
 - 📩 How to reach me ariel50515@gmail.com
--vvvv
 
 
 <!--
